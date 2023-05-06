@@ -70,4 +70,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 
 - GitHub [@anthonybhdev](https://{github.com/anthonybhdev})
+- LinkedIn [@anthonybhdev](https://www.linkedin.com/in/anthonybhdev/})
 
